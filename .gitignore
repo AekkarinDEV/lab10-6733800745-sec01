@@ -10,3 +10,6 @@ target/
 .settings/
 *.iml
 .DS_Store
+
+
+result
